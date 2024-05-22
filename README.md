@@ -1,6 +1,10 @@
 ## Hi there 👋
 
-![snake gif](https://github.com/Meteh4/meteh4/blob/output/github-contribution-grid-snake.gif)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Meteh4/Meteh4/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Meteh4/Meteh4/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Meteh4/Meteh4/output/github-contribution-grid-snake.svg">
+</picture>
 
 <!--
 **Meteh4/meteh4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
