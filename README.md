@@ -1,4 +1,3 @@
-## Hi there 👋
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Meteh4/Meteh4/output/github-contribution-grid-snake-dark.svg">
